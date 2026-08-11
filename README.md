@@ -2,7 +2,7 @@
 
 # Tanmay Singh
 
-Solution Engineer — aspiring Cloud & DevOps Engineer
+Solution Engineer — aspiring Cloud & DevOps Engineer and product 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-singh-6438a1201/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://destroxx.github.io/lumora/)
